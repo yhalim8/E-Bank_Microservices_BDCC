@@ -16,7 +16,7 @@
 
 ## angular customers.component.ts
 make request to the gateway-service, then the gateway will forward the request to customer-service
-<img src="captures/angular-get-customers-request.png" alt="angular-customers-request"/>
+<img src="captures/angular-get-customer-request.png" alt="angular-customers-request"/>
 
 ## angular customers.component.html
 <img src="captures/angular-get-customers-html.png" alt="angular-customers-html"/>
